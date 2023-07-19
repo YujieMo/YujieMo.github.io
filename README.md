@@ -2,7 +2,7 @@
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm Yujie Mo (莫宇杰 in Chinese). I am currently a second-year PhD student in Computer Science and Technology at University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. Zhu. My research interests include graph representation learning and self-supervised/unsupervised learning. 
-Previously, I got my bachelor’s degree in Computer Science and Technology at Northeastern University (Shenyang, China) in 2020. Later, I was admitted to UESTC for a Master’s degree in 2020 and transferred to pursue the PhD degree in 2020. Check my CV for more details.
+Previously, I got my bachelor’s degree in Computer Science and Technology at Northeastern University (Shenyang, China) in 2020. Later, I was admitted to UESTC for a Master’s degree in 2020 and transferred to pursue the PhD degree in 2022. Check my CV for more details.
 
 
 # 🔥 News
