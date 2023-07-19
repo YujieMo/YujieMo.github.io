@@ -29,7 +29,7 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 
 [Simple Self-supervised Multiplex Graph Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3503161.3547949) **ACM MM 2022**
 
-**Yujie Mo***, Yuhuan Chen, Liang Peng, Xiaoshuang Shi, Xiaofeng Zhu
+**Yujie Mo**, Yuhuan Chen, Liang Peng, Xiaoshuang Shi, Xiaofeng Zhu
 
 [Simple unsupervised graph representation learning](https://ojs.aaai.org/index.php/AAAI/article/view/20748) **AAAI 2022**
 
