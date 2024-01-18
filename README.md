@@ -2,10 +2,11 @@
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm Yujie Mo (莫宇杰 in Chinese). I am currently a second-year PhD student in Computer Science and Technology at University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. Zhu. My research interests include graph representation learning and self-supervised/unsupervised learning. 
-Previously, I got my bachelor’s degree in Computer Science and Technology at Northeastern University (Shenyang, China) in 2020. Later, I was admitted to UESTC for a Master’s degree in 2020 and transferred to pursue the PhD degree in 2022. Check my CV for more details.
+Previously, I got my bachelor’s degree in Computer Science and Technology at Northeastern University (Shenyang, China) in 2020. Later, I was admitted to UESTC for a Master’s degree in 2020 and transferred to pursue the PhD degree in 2022, supervised by Xiaofeng Zhu. And now, I am a visiting Ph.D. student of Learning and Vision (LV) Lab at the National University of Singapore under the supervision of Xinchao Wang. Check my CV for more details.
 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2023. 
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by ICML 2023. 
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by TKDE. 
 
@@ -14,6 +15,10 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 --->
+
+[Self-supervised Heterogeneous Graph Learning: a Homophily and Heterogeneity Perspective](https://openreview.net/pdf?id=3FJOKjooIj) **ICLR 2024**
+
+**Yujie Mo**, Feiping Nie, Zheng Zhang, Ping Hu, Heng Tao Shen, Xinchao Wang, Xiaofeng Zhu
 
 [Disentangled Multiplex Graph Representation Learning](https://openreview.net/pdf?id=lYZOjMvxws) **ICML 2023**
 
@@ -55,6 +60,7 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 - *2023.04* "Academic Newcomer" Graduate Student Honor Award.
 - *2023.04* Outstanding Graduate Teaching Assistant Award.
 - *2023.04* Outstanding Graduate Student Cadre.
+- *2023.10* National Scholarship.
 - *2021.12* AAAI Association for the Advancement of Artificial Intelligence (AAAI) 2022 Student Scholarship.
 - *2022.12* AAAI Association for the Advancement of Artificial Intelligence (AAAI) 2023 Travel Scholarship.
 
@@ -65,7 +71,7 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 
 # 💬 Services
 - Program Committee Member for AAAI2024, AAAI 2023, ACM MM 2023, NeurIPS 2023, etc. 
-- Reviewer for TNNLS, TKDE, TIP, etc.
+- Reviewer for TNNLS, TKDE, TIP, IPM, etc.
 
 <!--
 # 💻 Internships
