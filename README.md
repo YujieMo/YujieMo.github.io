@@ -14,7 +14,7 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 --->
-* indicates equal contribution
+\* indicates equal contribution
 
 [Self-supervised Heterogeneous Graph Learning: a Homophily and Heterogeneity Perspective](https://openreview.net/pdf?id=3FJOKjooIj) **ICLR 2024**
 
