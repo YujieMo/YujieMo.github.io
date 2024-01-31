@@ -5,7 +5,7 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2023. 
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2024. 
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by ICML 2023. 
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by TKDE. 
 
