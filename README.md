@@ -1,7 +1,7 @@
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Yujie Mo (莫宇杰 in Chinese). I am currently a second-year PhD student in Computer Science and Technology at University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. Zhu. My research interests include graph representation learning and self-supervised/unsupervised learning. 
-Previously, I got my bachelor’s degree in Computer Science and Technology at Northeastern University (Shenyang, China) in 2020. Later, I was admitted to UESTC for a Master’s degree in 2020 and transferred to pursue the PhD degree in 2022, supervised by Xiaofeng Zhu. And now, I am a visiting Ph.D. student of Learning and Vision (LV) Lab at the National University of Singapore under the supervision of Xinchao Wang. Check my CV for more details.
+Hi, I'm Yujie Mo (莫宇杰 in Chinese). I am currently a second-year PhD student in Computer Science and Technology at University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. [Xiaofeng Zhu](https://scholar.google.com/citations?user=-bk1CrcAAAAJ&hl=zh-CN&oi=ao). My research interests include graph representation learning and self-supervised/unsupervised learning. 
+Previously, I got my bachelor’s degree in Computer Science and Technology at Northeastern University (Shenyang, China) in 2020. Later, I was admitted to UESTC for a Master’s degree in 2020 and transferred to pursue the PhD degree in 2022. And now, I am a visiting Ph.D. student of Learning and Vision (LV) Lab at the National University of Singapore under the supervision of Prof. [Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=zh-CN&oi=ao). Check my CV for more details.
 
 
 # 🔥 News
@@ -69,7 +69,7 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 - *2016.09 - 2020.06*, Northeastern University, Shenyang, China, Bachelor of Computer Science and Technology. 
 
 # 💬 Services
-- Program Committee Member for KDD 2024, AAAI2024, AAAI 2023, ACM MM 2023-2024, NeurIPS 2023, etc. 
+- Program Committee Member for KDD 2024, ICLR 2024, AAAI2024, AAAI 2023, ACM MM 2023-2024, NeurIPS 2023, etc. 
 - Reviewer for TNNLS, TKDE, TIP, IPM, etc.
 
 <!--
