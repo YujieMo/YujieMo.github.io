@@ -14,6 +14,7 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 --->
+* indicates equal contribution
 
 [Self-supervised Heterogeneous Graph Learning: a Homophily and Heterogeneity Perspective](https://openreview.net/pdf?id=3FJOKjooIj) **ICLR 2024**
 
@@ -41,7 +42,7 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 
 [GRLC: Graph representation learning with constraints](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036344) **TNNLS 2023**
 
-**Liang Peng***, Yujie Mo*, Jie Xu, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, Heng Tao Shen, Xiaofeng Zhu
+Liang Peng*, **Yujie Mo***, Jie Xu, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, Heng Tao Shen, Xiaofeng Zhu
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
