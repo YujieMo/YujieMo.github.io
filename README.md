@@ -39,6 +39,9 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 [Simple unsupervised graph representation learning](https://ojs.aaai.org/index.php/AAAI/article/view/20748) **AAAI 2022**
 
 **Yujie Mo***, Liang Peng*, Jie Xu, Xiaoshuang Shi, Xiaofeng Zhu
+[Self-Training based Few-Shot Node Classification by Knowledge Distillation.] **AAAI 2024**
+
+Zongqian Wu*, **Yujie Mo***, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu. 
 
 [GRLC: Graph representation learning with constraints](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036344) **TNNLS 2023**
 
