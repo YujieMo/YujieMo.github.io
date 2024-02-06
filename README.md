@@ -40,7 +40,7 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 
 **Yujie Mo***, Liang Peng*, Jie Xu, Xiaoshuang Shi, Xiaofeng Zhu
 
-[Self-Training based Few-Shot Node Classification by Knowledge Distillation.] **AAAI 2024**
+[Self-Training based Few-Shot Node Classification by Knowledge Distillation.](https://scholar.google.com/schhp?hl=zh-CN) **AAAI 2024**
 
 Zongqian Wu*, **Yujie Mo***, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu. 
 
