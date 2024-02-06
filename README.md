@@ -42,7 +42,7 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 
 [Self-Training based Few-Shot Node Classification by Knowledge Distillation.](https://scholar.google.com/schhp?hl=zh-CN) **AAAI 2024**
 
-Zongqian Wu*, **Yujie Mo***, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu. 
+Zongqian Wu*, **Yujie Mo***, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu
 
 [GRLC: Graph representation learning with constraints](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036344) **TNNLS 2023**
 
