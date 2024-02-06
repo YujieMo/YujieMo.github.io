@@ -30,7 +30,7 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 
 [Multiplex Graph Representation Learning via Common and Private Information Mining](https://ojs.aaai.org/index.php/AAAI/article/view/26105) **AAAI 2023**
 
-**Yujie Mo**^*, Zongqian Wu*, Yuhuan Chen, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu
+**Yujie Mo** *, Zongqian Wu*, Yuhuan Chen, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu
 
 [Simple Self-supervised Multiplex Graph Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3503161.3547949) **ACM MM 2022**
 
