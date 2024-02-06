@@ -30,7 +30,7 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 
 [Multiplex Graph Representation Learning via Common and Private Information Mining](https://ojs.aaai.org/index.php/AAAI/article/view/26105) **AAAI 2023**
 
-**Yujie Mo***, Zongqian Wu*, Yuhuan Chen, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu
+**Yujie Mo**\*, Zongqian Wu\*, Yuhuan Chen, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu
 
 [Simple Self-supervised Multiplex Graph Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3503161.3547949) **ACM MM 2022**
 
@@ -38,15 +38,15 @@ Previously, I got my bachelor’s degree in Computer Science and Technology at N
 
 [Simple unsupervised graph representation learning](https://ojs.aaai.org/index.php/AAAI/article/view/20748) **AAAI 2022**
 
-**Yujie Mo***, Liang Peng*, Jie Xu, Xiaoshuang Shi, Xiaofeng Zhu
+**Yujie Mo**\*, Liang Peng\*, Jie Xu, Xiaoshuang Shi, Xiaofeng Zhu
 
 [Self-Training based Few-Shot Node Classification by Knowledge Distillation.](https://scholar.google.com/schhp?hl=zh-CN) **AAAI 2024**
 
-Zongqian Wu*, **Yujie Mo***, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu
+Zongqian Wu\*, **Yujie Mo**\*, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu
 
 [GRLC: Graph representation learning with constraints](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036344) **TNNLS 2023**
 
-Liang Peng*, **Yujie Mo***, Jie Xu, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, Heng Tao Shen, Xiaofeng Zhu
+Liang Peng\*, **Yujie Mo**\*, Jie Xu, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, Heng Tao Shen, Xiaofeng Zhu
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
