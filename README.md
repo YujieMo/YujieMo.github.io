@@ -65,8 +65,8 @@ Liang Peng\*, **Yujie Mo**\*, Jie Xu, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, 
 - *2023.04* Outstanding Graduate Teaching Assistant Award.
 - *2023.04* Outstanding Graduate Student Cadre.
 - *2023.10* National Scholarship.
-- *2021.12* AAAI Association for the Advancement of Artificial Intelligence (AAAI) 2022 Student Scholarship.
-- *2022.12* AAAI Association for the Advancement of Artificial Intelligence (AAAI) 2023 Travel Scholarship.
+- *2021.12* AAAI 2022 Student Scholarship.
+- *2022.12* AAAI 2023 Travel Scholarship.
 
 # 📖 Educations
 - *2022.09 - (now)*, University of Electronic Science and Technology of China, Chengdu, China, Ph.D. student of Computer Science and Technology.
