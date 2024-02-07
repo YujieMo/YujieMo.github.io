@@ -74,7 +74,7 @@ Liang Peng\*, **Yujie Mo**\*, Jie Xu, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, 
 - *2016.09 - 2020.06*, Northeastern University, Shenyang, China, Bachelor of Computer Science and Technology. 
 
 # 💬 Services
-- Program Committee Member for ICML 2024, KDD 2024, ICLR 2024, AAAI 2024-2023, ACM MM 2024-2023, NeurIPS 2023, etc. 
+- Program Committee Member for ICML 2024, KDD 2024, ICLR 2024, ECCV 2024, AAAI 2024-2023, ACM MM 2024-2023, NeurIPS 2023, etc. 
 - Reviewer for TNNLS, TKDE, TIP, IPM, etc.
 
 <!--
