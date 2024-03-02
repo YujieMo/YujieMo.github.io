@@ -3,7 +3,7 @@
 Hi, I'm Yujie Mo (莫宇杰 in Chinese). I am currently a second-year PhD student in Computer Science and Technology at University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. [Xiaofeng Zhu](https://scholar.google.com/citations?user=-bk1CrcAAAAJ&hl=zh-CN&oi=ao). My research interests include graph representation learning and self-supervised/unsupervised learning. 
 Previously, I got my bachelor’s degree in Computer Science and Technology at Northeastern University (Shenyang, China) in 2020. Later, I was admitted to UESTC for a Master’s degree in 2020 and transferred to pursue the PhD degree in 2022. And now, I am a visiting Ph.D. student of Learning and Vision (LV) Lab at the National University of Singapore under the supervision of Prof. [Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=zh-CN&oi=ao). Check my CV for more details.
 
-Welcome to contacting me about research or internship by emails or WeChat (mujin20209)
+Welcome to contacting me about research or internship by emails or **WeChat** (mujin20209)
 
 
 # 🔥 News
@@ -18,9 +18,9 @@ Welcome to contacting me about research or internship by emails or WeChat (mujin
 --->
 \* indicates equal contribution
 
-[Self-supervised Heterogeneous Graph Learning: a Homophily and Heterogeneity Perspective](https://openreview.net/pdf?id=3FJOKjooIj) **ICLR 2024**
+[Self-supervised Heterogeneous Graph Learning: a Homophily and Heterogeneity View](https://openreview.net/pdf?id=3FJOKjooIj) **ICLR 2024**
 
-**Yujie Mo**, Feiping Nie, Zheng Zhang, Ping Hu, Heng Tao Shen, Xinchao Wang, Xiaofeng Zhu
+**Yujie Mo**, Feiping Nie, Ping Hu, Heng Tao Shen, Zheng Zhang, Xinchao Wang, Xiaofeng Zhu
 
 [Disentangled Multiplex Graph Representation Learning](https://openreview.net/pdf?id=lYZOjMvxws) **ICML 2023**
 
