@@ -50,11 +50,16 @@ Zongqian Wu\*, **Yujie Mo**\*, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu
 
 Liang Peng\*, **Yujie Mo**\*, Jie Xu, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, Heng Tao Shen, Xiaofeng Zhu
 
+# 📝 Under Review
+Efficient Self-Supervised Heterogeneous Graph   Representation Learning  with Reconstruction **TNNLS under review**
+Yujie Mo, Heng Tao Shen, Xiaofeng Zhu 
+
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
