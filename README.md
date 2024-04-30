@@ -75,6 +75,7 @@ Yujie Mo, Heng Tao Shen, Xiaofeng Zhu
 - *2023.10* National Scholarship.
 - *2021.12* AAAI 2022 Student Scholarship.
 - *2022.12* AAAI 2023 Travel Scholarship.
+- *2024.05* The Web conference volunteer.
 
 # 📖 Educations
 - *2022.09 - (now)*, University of Electronic Science and Technology of China, Chengdu, China, Ph.D. student of Computer Science and Technology.
