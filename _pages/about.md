@@ -24,6 +24,7 @@ Welcome to contacting me about research or internship by emails.
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by Information Fusion. 
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2024. 
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by ICML 2023. 
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by TKDE. 
@@ -33,6 +34,9 @@ Welcome to contacting me about research or internship by emails.
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">-->
 \* indicates equal contribution
+
+[Unsupervised Multi-View Graph Representation Learning with Dual Weight-Net](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004470) **Information Fusion**
+**Yujie Mo**, Heng Tao Shen, Xiaofeng Zhu.
 
 [Self-supervised Heterogeneous Graph Learning: a Homophily and Heterogeneity View](https://openreview.net/pdf?id=3FJOKjooIj) **ICLR 2024**
 
@@ -96,7 +100,7 @@ Liang Peng\*, **Yujie Mo**\*, Jie Xu, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, 
 - *2016.09 - 2020.06*, Northeastern University, Shenyang, China, Bachelor of Computer Science and Technology. 
 
 # 💬 Services
-- Program Committee Member for ICML 2024, KDD 2024, ICLR 2024, ECCV 2024, AAAI 2025-2023, ACM MM 2024-2023, NeurIPS 2024-2023, LOG 2024-2023, ACML 2024, etc. 
+- Program Committee Member for ICML 2024, ICLR 2024-2025, NeurIPS 2023-2024, KDD 2024-2025, ECCV 2024, AAAI 2023-2025, ACM MM 2023-2024, LOG 2023-2024, ACML 2024, etc. 
 - Reviewer for TNNLS, TKDE, TIP, IPM, NeuralComputing, etc.
 <!--
 # 💻 Internships
