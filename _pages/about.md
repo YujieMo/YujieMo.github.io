@@ -37,7 +37,7 @@ Welcome to contacting me about research or internship by emails.
 
 [Unsupervised Multi-View Graph Representation Learning with Dual Weight-Net](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004470) **Information Fusion**
 
-**Yujie Mo**, Heng Tao Shen, Xiaofeng Zhu.
+**Yujie Mo**, Heng Tao Shen, Xiaofeng Zhu
 
 [Self-supervised Heterogeneous Graph Learning: a Homophily and Heterogeneity View](https://openreview.net/pdf?id=3FJOKjooIj) **ICLR 2024**
 
