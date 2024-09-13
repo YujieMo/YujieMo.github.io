@@ -26,8 +26,6 @@ Welcome to contacting me about research or internship by emails.
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by Information Fusion. 
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2024. 
-- *2023.04*: &nbsp;🎉🎉 One paper is accepted by ICML 2023. 
-- *2023.04*: &nbsp;🎉🎉 One paper is accepted by TKDE. 
 
 # 📝 Publications 
 
