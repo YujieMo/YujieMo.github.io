@@ -33,7 +33,7 @@ Welcome to contacting me about research or internship by emails.
 <div class='paper-box-text' markdown="1">-->
 \* indicates equal contribution
 
-[Unsupervised Multi-View Graph Representation Learning with Dual Weight-Net](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004470) **Information Fusion**
+[Unsupervised Multi-View Graph Representation Learning with Dual Weight-Net](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004470) **Information Fusion 2024**
 
 **Yujie Mo**, Heng Tao Shen, Xiaofeng Zhu
 
