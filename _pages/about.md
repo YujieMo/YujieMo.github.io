@@ -102,6 +102,4 @@ Liang Peng\*, **Yujie Mo**\*, Jie Xu, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, 
 # 💬 Services
 - Program Committee Member for ICML 2024, ICLR 2024-2025, NeurIPS 2023-2024, KDD 2024-2025, ECCV 2024, AAAI 2023-2025, ACM MM 2023-2024, LOG 2023-2024, ACML 2024, etc. 
 - Reviewer for TNNLS, TKDE, TIP, IPM, NeuralComputing, etc.
-<!--
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
+
