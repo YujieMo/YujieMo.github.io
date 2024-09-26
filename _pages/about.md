@@ -24,6 +24,7 @@ Welcome to contacting me about research or internship by emails.
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024. 
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by Information Fusion. 
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2024. 
 
@@ -32,6 +33,9 @@ Welcome to contacting me about research or internship by emails.
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">-->
 \* indicates equal contribution
+Revisiting Self-Supervised Heterogeneous Graph Learning from Spectral Clustering Perspective **NeurIPS 2024**
+
+**Yujie Mo**, Zhihe Lu, Runpeng Yu, Xiaofeng Zhu, Xinchao Wang
 
 [Unsupervised Multi-View Graph Representation Learning with Dual Weight-Net](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004470) **Information Fusion 2024**
 
