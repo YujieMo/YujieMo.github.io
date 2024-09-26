@@ -33,6 +33,7 @@ Welcome to contacting me about research or internship by emails.
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">-->
 \* indicates equal contribution
+
 Revisiting Self-Supervised Heterogeneous Graph Learning from Spectral Clustering Perspective **NeurIPS 2024**
 
 **Yujie Mo**, Zhihe Lu, Runpeng Yu, Xiaofeng Zhu, Xinchao Wang
