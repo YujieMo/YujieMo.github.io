@@ -34,35 +34,35 @@ Welcome to contacting me about research or internship by emails.
 <div class='paper-box-text' markdown="1">-->
 \* indicates equal contribution
 
-Revisiting Self-Supervised Heterogeneous Graph Learning from Spectral Clustering Perspective **NeurIPS 2024**
+Revisiting Self-Supervised Heterogeneous Graph Learning from Spectral Clustering Perspective. **NeurIPS 2024.** [[Paper]](https://openreview.net/pdf?id=I6tRENM5Ya) [[Code]](https://github.com/YujieMo/SCHOOL)
 
 **Yujie Mo**, Zhihe Lu, Runpeng Yu, Xiaofeng Zhu, Xinchao Wang
 
-[Unsupervised Multi-View Graph Representation Learning with Dual Weight-Net](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004470) **Information Fusion 2024**
+Unsupervised Multi-View Graph Representation Learning with Dual Weight-Net. **Information Fusion 2024.** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004470)
 
 **Yujie Mo**, Heng Tao Shen, Xiaofeng Zhu
 
-[Self-supervised Heterogeneous Graph Learning: a Homophily and Heterogeneity View](https://openreview.net/pdf?id=3FJOKjooIj) **ICLR 2024**
+Self-supervised Heterogeneous Graph Learning: a Homophily and Heterogeneity View. **ICLR 2024.** [[Paper]](https://openreview.net/pdf?id=3FJOKjooIj) [[Code]](https://github.com/YujieMo/HERO)
 
 **Yujie Mo**, Feiping Nie, Ping Hu, Heng Tao Shen, Zheng Zhang, Xinchao Wang, Xiaofeng Zhu
 
-[Disentangled Multiplex Graph Representation Learning](https://openreview.net/pdf?id=lYZOjMvxws) **ICML 2023**
+Disentangled Multiplex Graph Representation Learning. **ICML 2023.** [[Paper]](https://openreview.net/pdf?id=lYZOjMvxws) [[Code]](https://github.com/YujieMo/DMG)
 
 **Yujie Mo**, Yajie Lei, Jialie Shen, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu
 
-[Multiplex Graph Representation Learning via Dual Correlation Reduction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10109130) **TKDE 2023**
+Multiplex Graph Representation Learning via Dual Correlation Reduction. **TKDE 2023.** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10109130) [[Code]](https://github.com/YujieMo/MGDCR)
 
 **Yujie Mo**, Yuhuan Chen, Yajie Lei, Liang Peng, Xiaoshuang Shi, Changan Yuan, Xiaofeng Zhu
 
-[Multiplex Graph Representation Learning via Common and Private Information Mining](https://ojs.aaai.org/index.php/AAAI/article/view/26105) **AAAI 2023**
+Multiplex Graph Representation Learning via Common and Private Information Mining. **AAAI 2023.** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26105)
 
 **Yujie Mo**\*, Zongqian Wu\*, Yuhuan Chen, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu
 
-[Simple Self-supervised Multiplex Graph Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3503161.3547949) **ACM MM 2022**
+Simple Self-supervised Multiplex Graph Representation Learning. **ACM MM 2022.** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503161.3547949) [[Code]](https://github.com/YujieMo/SSMGRL)
 
 **Yujie Mo**, Yuhuan Chen, Liang Peng, Xiaoshuang Shi, Xiaofeng Zhu
 
-[Simple unsupervised graph representation learning](https://ojs.aaai.org/index.php/AAAI/article/view/20748) **AAAI 2022**
+Simple unsupervised graph representation learning. **AAAI 2022** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20748) [[Code]](https://github.com/YujieMo/SUGRL)
 
 **Yujie Mo**\*, Liang Peng\*, Jie Xu, Xiaoshuang Shi, Xiaofeng Zhu
 
