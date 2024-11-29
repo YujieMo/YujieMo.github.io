@@ -62,15 +62,15 @@ Simple Self-supervised Multiplex Graph Representation Learning. **ACM MM 2022.**
 
 **Yujie Mo**, Yuhuan Chen, Liang Peng, Xiaoshuang Shi, Xiaofeng Zhu
 
-Simple unsupervised graph representation learning. **AAAI 2022** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20748) [[Code]](https://github.com/YujieMo/SUGRL)
+Simple unsupervised graph representation learning. **AAAI 2022.** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20748) [[Code]](https://github.com/YujieMo/SUGRL)
 
 **Yujie Mo**\*, Liang Peng\*, Jie Xu, Xiaoshuang Shi, Xiaofeng Zhu
 
-[Self-Training based Few-Shot Node Classification by Knowledge Distillation.](https://scholar.google.com/schhp?hl=zh-CN) **AAAI 2024**
+Self-Training based Few-Shot Node Classification by Knowledge Distillation. **AAAI 2024.** [[Paper]](https://scholar.google.com/schhp?hl=zh-CN) 
 
 Zongqian Wu\*, **Yujie Mo**\*, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu
 
-[GRLC: Graph representation learning with constraints](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036344) **TNNLS 2023**
+GRLC: Graph representation learning with constraints. **TNNLS 2023.** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036344) 
 
 Liang Peng\*, **Yujie Mo**\*, Jie Xu, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, Heng Tao Shen, Xiaofeng Zhu
 
