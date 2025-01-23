@@ -24,6 +24,7 @@ Welcome to contacting me about research or internship by emails.
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024. 
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by Information Fusion. 
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2024. 
@@ -104,6 +105,6 @@ Liang Peng\*, **Yujie Mo**\*, Jie Xu, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, 
 - *2016.09 - 2020.06*, Northeastern University, Shenyang, China, Bachelor of Computer Science and Technology. 
 
 # 💬 Services
-- Program Committee Member for ICML 2024, ICLR 2024-2025, NeurIPS 2023-2024, KDD 2024-2025, ECCV 2024, AAAI 2023-2025, ACM MM 2023-2024, LOG 2023-2024, ACML 2024, etc. 
+- Program Committee Member for ICML 2024-2025, ICLR 2024-2025, NeurIPS 2023-2024, KDD 2024-2025, ECCV 2024, AAAI 2023-2025, ACM MM 2023-2024, LOG 2023-2024, ACML 2024, etc. 
 - Reviewer for TNNLS, TKDE, TIP, IPM, NeuralComputing, etc.
 
