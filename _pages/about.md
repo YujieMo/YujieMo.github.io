@@ -37,6 +37,8 @@ Welcome to contacting me about research or internship by emails.
 
 HG-Adapter: Improving Pre-Trained Heterogeneous Graph Neural Networks with Dual Adapters. **ICLR 2025.** [[Paper]](https://openreview.net/pdf?id=AEglX9CHFN) [[Code]](https://github.com/YujieMo/HG-Adapter)
 
+**Yujie Mo**, Runpeng Yu, Xiaofeng Zhu, Xinchao Wang
+
 Revisiting Self-Supervised Heterogeneous Graph Learning from Spectral Clustering Perspective. **NeurIPS 2024.** [[Paper]](https://openreview.net/pdf?id=I6tRENM5Ya) [[Code]](https://github.com/YujieMo/SCHOOL)
 
 **Yujie Mo**, Zhihe Lu, Runpeng Yu, Xiaofeng Zhu, Xinchao Wang
