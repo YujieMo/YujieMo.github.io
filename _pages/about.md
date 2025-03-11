@@ -39,6 +39,10 @@ HG-Adapter: Improving Pre-Trained Heterogeneous Graph Neural Networks with Dual 
 
 **Yujie Mo**, Runpeng Yu, Xiaofeng Zhu, Xinchao Wang
 
+Efficient self-supervised heterogeneous graph representation learning with reconstruction. **Information Fusion 2025.** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253524006249)
+
+**Yujie Mo**, Heng Tao Shen, Xiaofeng Zhu
+
 Revisiting Self-Supervised Heterogeneous Graph Learning from Spectral Clustering Perspective. **NeurIPS 2024.** [[Paper]](https://openreview.net/pdf?id=I6tRENM5Ya) [[Code]](https://github.com/YujieMo/SCHOOL)
 
 **Yujie Mo**, Zhihe Lu, Runpeng Yu, Xiaofeng Zhu, Xinchao Wang
