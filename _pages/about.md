@@ -33,7 +33,7 @@ Welcome to contacting me about research or internship by emails.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">-->
-\* indicates equal contribution
+\* indicates equal contribution, \dag indicates the corresponding author.
 
 HG-Adapter: Improving Pre-Trained Heterogeneous Graph Neural Networks with Dual Adapters. **ICLR 2025.** [[Paper]](https://openreview.net/pdf?id=AEglX9CHFN) [[Code]](https://github.com/YujieMo/HG-Adapter)
 
@@ -82,6 +82,14 @@ Zongqian Wu\*, **Yujie Mo**\*, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu
 GRLC: Graph representation learning with constraints. **TNNLS 2023.** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036344) 
 
 Liang Peng\*, **Yujie Mo**\*, Jie Xu, Jialie Shen, Xiaoshuang Shi, Xiaoxiao Li, Heng Tao Shen, Xiaofeng Zhu
+
+MCD-CLIP: Multi-view Chest Disease Diagnosis with Disentangled CLIP. **IJCAI 2025.** 
+
+Songyue Cai, **Yujie Mo**\dag, Liang Peng, Yucheng Xie, Tao Tong, Xiaofeng Zhu
+
+Multiplex Graph Representation Learning via Bi-level Optimization. **IJCAI 2024.** [[Paper]]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036344](https://www.ijcai.org/proceedings/2024/230)) 
+
+Yudi Huang, **Yujie Mo**\dag, Yujing Liu, Ci Nie, Guoqiu Wen, Xiaofeng Zhu
 
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
