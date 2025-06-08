@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Yujie Mo (莫宇杰 in Chinese). I am currently a Postdoctoral Research Fellow at [ZhangLab](https://zhanglab.comp.nus.edu.sg/), supervised by Prof. Yang Zhang. I received my Ph.D. in Computer Science and Technology from the University of Electronic Science and Technology of China (UESTC), where I was advised by Prof. [Xiaofeng Zhu](https://scholar.google.com/citations?user=-bk1CrcAAAAJ&hl=zh-CN&oi=ao). During my Ph.D., I also spent time as a visiting student at the Learning and Vision (LV) Lab at the National University of Singapore, supervised by Prof. [Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=zh-CN&oi=ao). My research interests include protein structure prediction, protein design, graph representation learning, and self-supervised/unsupervised learning. Check my CV for more details.
+Hi, I'm Yujie Mo (莫宇杰 in Chinese). I am currently a Postdoctoral Research Fellow at [ZhangLab](https://zhanglab.comp.nus.edu.sg/), supervised by Prof. [Yang Zhang](https://www.comp.nus.edu.sg/cs/people/zhangy/). I received my Ph.D. in Computer Science and Technology from the University of Electronic Science and Technology of China (UESTC), where I was advised by Prof. [Xiaofeng Zhu](https://scholar.google.com/citations?user=-bk1CrcAAAAJ&hl=zh-CN&oi=ao). During my Ph.D., I also spent time as a visiting student at the Learning and Vision (LV) Lab at the National University of Singapore, supervised by Prof. [Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=zh-CN&oi=ao). My research interests include protein structure prediction, protein design, graph representation learning, and self-supervised/unsupervised learning. Check my CV for more details.
 
 Welcome to contacting me about research or internship by emails.
 
@@ -115,7 +115,7 @@ Yudi Huang, **Yujie Mo**†, Yujing Liu, Ci Nie, Guoqiu Wen, Xiaofeng Zhu
 - *2024.05* The Web conference volunteer.
 
 # 📖 Educations
-- *2022.09 - (now)*, University of Electronic Science and Technology of China, Chengdu, China, Ph.D. student of Computer Science and Technology.
+- *2022.09 - 2025.06*, University of Electronic Science and Technology of China, Chengdu, China, Ph.D. student of Computer Science and Technology.
 - *2020.09 - 2022.06*, University of Electronic Science and Technology of China, Chengdu, China, Master of Computer Technology, transferred to Ph.D. 
 - *2016.09 - 2020.06*, Northeastern University, Shenyang, China, Bachelor of Computer Science and Technology. 
 
