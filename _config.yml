@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+e# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yujie Mo"
-description              : "Ph.D. student"
+description              : "Research Fellow"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yujie Mo"
   avatar           : "images/Photo_github.png"
-  bio              : "UESTC & NUS"
-  location         : "Chengdu, China"
+  bio              : "NUS & UESTC"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MH4nZY0AAAAJ&hl=zh-CN"
