@@ -90,7 +90,7 @@ MCD-CLIP: Multi-view Chest Disease Diagnosis with Disentangled CLIP. **IJCAI 202
 
 Songyue Cai, **Yujie Mo**†, Liang Peng, Yucheng Xie, Tao Tong, Xiaofeng Zhu
 
-Multiplex Graph Representation Learning via Bi-level Optimization. **IJCAI 2024.** [[Paper]]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036344](https://www.ijcai.org/proceedings/2024/230)) 
+Multiplex Graph Representation Learning via Bi-level Optimization. **IJCAI 2024.** [[Paper]](https://www.ijcai.org/proceedings/2024/230)
 
 Yudi Huang, **Yujie Mo**†, Yujing Liu, Ci Nie, Guoqiu Wen, Xiaofeng Zhu
 
