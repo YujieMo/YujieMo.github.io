@@ -74,10 +74,6 @@ Simple unsupervised graph representation learning. **AAAI 2022.** [[Paper]](http
 
 **Yujie Mo**\*, Liang Peng\*, Jie Xu, Xiaoshuang Shi, Xiaofeng Zhu
 
-Dual Consistency Constraints-Based Self-Supervised Representation Learning for Heterogeneous Graphs with Missing Attributes. **TNNLS 2025.** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10931789) 
-
-Yajie Lei\*, **Yujie Mo**\*, Luping Ji, Xiaofeng Zhu
-
 Self-Training based Few-Shot Node Classification by Knowledge Distillation. **AAAI 2024.** [[Paper]](https://scholar.google.com/schhp?hl=zh-CN) 
 
 Zongqian Wu\*, **Yujie Mo**\*, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu
