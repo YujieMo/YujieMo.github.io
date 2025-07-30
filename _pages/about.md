@@ -124,6 +124,6 @@ Yudi Huang, **Yujie Mo**†, Yujing Liu, Ci Nie, Guoqiu Wen, Xiaofeng Zhu
 - *2016.09 - 2020.06*, Northeastern University, Shenyang, China, Bachelor of Computer Science and Technology. 
 
 # 💬 Services
-- Program Committee Member for ICML 2024-2025, ICLR 2024-2025, NeurIPS 2023-2024, KDD 2024-2025, ECCV 2024, AAAI 2023-2025, ACM MM 2023-2024, LOG 2023-2024, ACML 2024, etc. 
-- Reviewer for TNNLS, TKDE, TIP, IPM, NeuralComputing, etc.
+- Program Committee Member for ICML 2024-2025, ICLR 2024-2025, NeurIPS 2023-2025, KDD 2024-2025, ECCV 2024, AAAI 2023-2026, ACM MM 2023-2025, LOG 2023-2024, ACML 2024-2025, etc. 
+- Reviewer for TPAMI, TNNLS, TKDE, TIP, IPM, NeuralComputing, etc.
 
