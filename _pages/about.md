@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  body {
+    font-family: Arial, sans-serif;
+  }
+</style>
+
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
