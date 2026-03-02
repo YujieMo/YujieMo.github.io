@@ -53,7 +53,7 @@ Revisiting Self-Supervised Heterogeneous Graph Learning from Spectral Clustering
 
 **Yujie Mo**, Zhihe Lu, Runpeng Yu, Xiaofeng Zhu, Xinchao Wang
 
-Unsupervised Multi-View Graph Representation Learning with Dual Weight-Net. **Information Fusion 2024.** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004470)
+Unsupervised Multi-View Graph Representation Learning with Dual Weight-Net. **Information Fusion 2025.** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004470)
 
 **Yujie Mo**, Heng Tao Shen, Xiaofeng Zhu
 
