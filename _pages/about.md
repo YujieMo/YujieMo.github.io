@@ -115,15 +115,14 @@ Yudi Huang, **Yujie Mo**†, Yujing Liu, Ci Nie, Guoqiu Wen, Xiaofeng Zhu
 这是一段被注释掉的文字 -->
 
 # 🎖 Honors and Awards
-- *2021.10* First-class Scholarship. 
-- *2022.04* "Academic Youth" Graduate Student Honor Award.
+- *2023.10* National Scholarship.
 - *2023.04* "Academic Newcomer" Graduate Student Honor Award.
 - *2023.04* Outstanding Graduate Teaching Assistant Award.
 - *2023.04* Outstanding Graduate Student Cadre.
-- *2023.10* National Scholarship.
-- *2021.12* AAAI 2022 Student Scholarship.
 - *2022.12* AAAI 2023 Travel Scholarship.
-- *2024.05* The Web conference volunteer.
+- *2022.04* "Academic Youth" Graduate Student Honor Award.
+- *2021.12* AAAI 2022 Student Scholarship.
+- *2021.10* First-class Scholarship. 
 
 # 📖 Educations
 - *2022.09 - 2025.06*, University of Electronic Science and Technology of China, Chengdu, China, Ph.D. student of Computer Science and Technology.
