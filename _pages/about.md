@@ -131,6 +131,7 @@ Yudi Huang, **Yujie Mo**†, Yujing Liu, Ci Nie, Guoqiu Wen, Xiaofeng Zhu
 
 # 💬 Services
 - Area Chair: ICLR 2027, ICML 2027.
+- SPC: IJCAI 2027.
 - Conference Reviewer: ICML 2024-2026, ICLR 2024-2027, NeurIPS 2023-2026, KDD 2024-2027, ECCV 2024/2026, AAAI 2023-2027, ACM MM 2023-2026, LOG 2023-2024, ACML 2024-2026, etc. 
 - Journal Reviewer for TPAMI, AIJ, TKDE, TIP, TMM, TNNLS, IPM, NeuralComputing, etc.
 
